@@ -12,8 +12,10 @@
 - Using map to give items a unique key.
 - Combine `Array.filter()` and `Array.map()` to filter and render elements based on a condition.
 - Render components on the server using `ReactDOMServer.renderToString()`.
+- Worked on side project scoreboard.
 
 **Thoughts**:
+
 Learned a lot about conditional rendering and using built in array functions to handle rendering. Nothing seemed to unclear. Going through all these lessons actually cleared up a lot of what I was confused on such as using the `&&` operator and when to use `renderToString()`.
 
 
@@ -27,3 +29,4 @@ Learned a lot about conditional rendering and using built in array functions to 
 7. [Give Sibling Elements a Unique Key Attribute](https://learn.freecodecamp.org/front-end-libraries/react/give-sibling-elements-a-unique-key-attribute)
 8. [Use Array.filter() to Dynamically Filter an Array](https://learn.freecodecamp.org/front-end-libraries/react/use-array-filter-to-dynamically-filter-an-array)
 9. [Render React on the Server with renderToString](https://learn.freecodecamp.org/front-end-libraries/react/render-react-on-the-server-with-rendertostring)
+10. [Scoreboard App](https://codesandbox.io/s/9j1616mp2r)
