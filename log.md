@@ -1,30 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Nov 21, Wednesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+- Learned a cleaner way to toggle a boolean state with the NOT operator. (ex `!this.state.visible`)
+- Learned an even better way to handle conditional rendering by using the AND operator. (ex `{condition && <h1>Hello world!</h1>}`)
+- Learn to use multi-leveled ternary operators to handle logic within JSX.
+- Rendered conditionally from props.
+- Conditional styling with state.
+- Dynamically render elements with `Array.map()`.
+- Using map to give items a unique key.
+- Combine `Array.filter()` and `Array.map()` to filter and render elements based on a condition.
+- Render components on the server using `ReactDOMServer.renderToString()`.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:
+Learned a lot about conditional rendering and using built in array functions to handle rendering. Nothing seemed to unclear. Going through all these lessons actually cleared up a lot of what I was confused on such as using the `&&` operator and when to use `renderToString()`.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Render with If/Else Condition](https://learn.freecodecamp.org/front-end-libraries/react/render-with-an-ifelse-condition)
+2. [Use && for a More Concise Conditional](https://learn.freecodecamp.org/front-end-libraries/react/use--for-a-more-concise-conditional)
+3. [Use a Ternary Expression for Conditional Rendering](https://learn.freecodecamp.org/front-end-libraries/react/use-a-ternary-expression-for-conditional-rendering)
+4. [Render Conditionally from Props](https://learn.freecodecamp.org/front-end-libraries/react/render-conditionally-from-props)
+5. [Change Inline CSS Conditionally Based on Component State](https://learn.freecodecamp.org/front-end-libraries/react/change-inline-css-conditionally-based-on-component-state)
+6. [Use Array.map() to Dynamically Render Elements](https://learn.freecodecamp.org/front-end-libraries/react/use-array-map-to-dynamically-render-elements)
+7. [Give Sibling Elements a Unique Key Attribute](https://learn.freecodecamp.org/front-end-libraries/react/give-sibling-elements-a-unique-key-attribute)
+8. [Use Array.filter() to Dynamically Filter an Array](https://learn.freecodecamp.org/front-end-libraries/react/use-array-filter-to-dynamically-filter-an-array)
+9. [Render React on the Server with renderToString](https://learn.freecodecamp.org/front-end-libraries/react/render-react-on-the-server-with-rendertostring)
