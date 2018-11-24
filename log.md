@@ -30,3 +30,15 @@ Learned a lot about conditional rendering and using built in array functions to 
 8. [Use Array.filter() to Dynamically Filter an Array](https://learn.freecodecamp.org/front-end-libraries/react/use-array-filter-to-dynamically-filter-an-array)
 9. [Render React on the Server with renderToString](https://learn.freecodecamp.org/front-end-libraries/react/render-react-on-the-server-with-rendertostring)
 10. [Scoreboard App](https://codesandbox.io/s/9j1616mp2r)
+
+### Day 2: Nov 23, Friday
+
+**Today's Progress**:
+- Worked on a simple landing page in codesandbox.io
+
+**Thoughts**:
+
+Haven't had much time but able to fit in some site styling for a new landing page.
+
+**Link(s) to work**
+- [codesandbox environment](https://codesandbox.io/s/y0x2l7wrlj)
