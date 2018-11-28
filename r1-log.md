@@ -10,3 +10,6 @@ The log of my #100DaysOfCode challenge. Started on [November 21, 2018].
 
 ### R1D2
 - Worked on landing page gatsby site.
+
+### R1D3
+- Worked through some flexbox challenges in freecodecamp.

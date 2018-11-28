@@ -42,3 +42,13 @@ Haven't had much time but able to fit in some site styling for a new landing pag
 
 **Link(s) to work**
 - [codesandbox environment](https://codesandbox.io/s/y0x2l7wrlj)
+
+### Day 3: Nov 25, Sunday
+1. [Use display: flex to Position Two Boxes](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
+2. [Add Flex Superpowers to the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed)
+3. [Use the flex-direction Property to Make a Row](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
+4. [Apply the flex-direction Property to Create Rows in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed)
+5. [Use the flex-direction Property to Make a Column](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column)
+6. [Apply the flex-direction Property to Create a Column in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
+7. [Align Elements Using the justify-content Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property)
+8. [Use the justify-content Property in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed)ß
