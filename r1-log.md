@@ -13,3 +13,6 @@ The log of my #100DaysOfCode challenge. Started on [November 21, 2018].
 
 ### R1D3
 - Worked through some flexbox challenges in freecodecamp.
+
+### R1D4
+- Worked on some portfolio site updates.
