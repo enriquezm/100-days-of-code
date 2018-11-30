@@ -81,3 +81,17 @@ Had some fun incorporating react anime into website and changing to a dark theme
 7. [Remove.](https://github.com/enriquezm/portfolio/commit/3c8d83e2e3fa9463d8a9e5a549e26966bbefa43f)
 8. [Add react-anime.](https://github.com/enriquezm/portfolio/commit/70e7f35ab4f48e6e1fe99624a1f1e79d84d19bd8)
 9. [Remove unwanted module import.](https://github.com/enriquezm/portfolio/commit/8346b7c75c5f81fb175a21cededd7a5cb2732e22)
+
+### Day 5: Nov 29, Thursday
+
+**Today's Progress**:
+- Worked es6 challenges on fcc.
+
+**Thoughts**:
+
+
+**Link(s) to work**
+1. [Use getters and setters to Control Access to an Object](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
+2. [Understand the Differences Between import and require](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/understand-the-differences-between-import-and-require)
+3. [Use export to Reuse a Code Block](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-export-to-reuse-a-code-block)
+4. [Use * to Import Everything from a File](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)
