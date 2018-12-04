@@ -19,3 +19,9 @@ The log of my #100DaysOfCode challenge. Started on [November 21, 2018].
 
 ### R1D5
 - Worked on some ES6 challenges via free code camp.
+
+### R1D6
+- Worked on a client website.
+
+## R1D7
+- Worked on personal website.

@@ -95,3 +95,33 @@ Had some fun incorporating react anime into website and changing to a dark theme
 2. [Understand the Differences Between import and require](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/understand-the-differences-between-import-and-require)
 3. [Use export to Reuse a Code Block](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-export-to-reuse-a-code-block)
 4. [Use * to Import Everything from a File](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)
+
+### Day 6: Dec 2, Sunday
+
+**Today's Progress**:
+- Worked on some basic HTML layout for a new client site.
+
+**Thoughts**:
+
+Although HTML may seem simple, it's crucial to have it done the correct way to meet accessibility standards.
+
+**Link(s) to work**
+- [Live site](https://determined-stallman-9def7a.netlify.com)
+- [Change site title](https://github.com/enriquezm/repairpro/commit/56b639f027a58564596b841fa4e108778280ea31)
+- [Add basic markup structure](https://github.com/enriquezm/repairpro/commit/b06628c11d503dd5dcbc30871706ede5e6aa3800)
+
+### Day 7: Dec 3, Monday
+
+**Today's Progress**:
+- Worked on personal website. Fixed some issues with react-animate package.
+
+**Thoughts**:
+
+Pretty tired but tried to get some kind of work done today.
+
+**Link(s) to work**
+- [Modified button color](https://github.com/enriquezm/portfolio/commit/b492f331911b033822ba392ab86eaf6f735b17f0)
+- [Add flicker animation](https://github.com/enriquezm/portfolio/commit/f7fa0d27d77a5464985e33234723436ae090c7db)
+- [Change color of links](https://github.com/enriquezm/portfolio/commit/8b12d6040419f4eee726d4ac4f22bf8ec01a7c78)
+- [Animate elements](https://github.com/enriquezm/portfolio/commit/890e6addd85deccaeb5c0ea82942701c590a543b)
+- [Remove importing of link](https://github.com/enriquezm/portfolio/commit/179b37dbbc765746000d72824ec9e823757e2aca)
