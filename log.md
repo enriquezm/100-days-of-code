@@ -125,3 +125,20 @@ Pretty tired but tried to get some kind of work done today.
 - [Change color of links](https://github.com/enriquezm/portfolio/commit/8b12d6040419f4eee726d4ac4f22bf8ec01a7c78)
 - [Animate elements](https://github.com/enriquezm/portfolio/commit/890e6addd85deccaeb5c0ea82942701c590a543b)
 - [Remove importing of link](https://github.com/enriquezm/portfolio/commit/179b37dbbc765746000d72824ec9e823757e2aca)
+
+### Day 8: Dec 7, Friday
+
+**Today's Progress**:
+- Worked through some basic data structures in FCC.
+
+**Link(s) to work**
+- [Use an Array to Store a Collection of Data](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
+- [Access an Array's Contents Using Bracket Notation](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation)
+- [Add Items to an Array with push() and unshift()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift)
+- [Remove Items from an Array with pop() and shift()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-from-an-array-with-pop-and-shift)
+- [Remove Items Using splice()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice)
+- [Add Items Using splice()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice)
+-[Copy Array Items Using slice()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
+- [Copy an Array with the Spread Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator)
+- [Combine Arrays with the Spread Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator/)
+- [Check For The Presence of an Element With indexOf()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
