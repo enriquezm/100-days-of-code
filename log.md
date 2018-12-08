@@ -142,3 +142,5 @@ Pretty tired but tried to get some kind of work done today.
 - [Copy an Array with the Spread Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator)
 - [Combine Arrays with the Spread Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator/)
 - [Check For The Presence of an Element With indexOf()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
+- [Iterate Through All an Array's Items Using For Loops](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
+- [Create complex multi-dimensional arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays)
