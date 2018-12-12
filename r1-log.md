@@ -28,3 +28,9 @@ The log of my #100DaysOfCode challenge. Started on [November 21, 2018].
 
 ## R1D8
 - Worked on some data structures on free code camp.
+
+## R1D9
+- Worked on 100 days viewer react application.
+
+## R1D10
+- Worked on some data structures again on fcc.

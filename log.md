@@ -144,3 +144,27 @@ Pretty tired but tried to get some kind of work done today.
 - [Check For The Presence of an Element With indexOf()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
 - [Iterate Through All an Array's Items Using For Loops](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
 - [Create complex multi-dimensional arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays)
+
+## Day 9: Dec 10, Monday
+
+**Today's Progress**:
+- Worked on 100 days viewer react application.
+
+**Link(s) to work**
+- [100 Days Viewer](https://codesandbox.io/s/3v8l0o7p7p)
+
+## Day 10: Dec 11, Tuesday
+
+**Today's Progress**:
+- Worked through some basic data structures in FCC.
+
+**Link(s) to work**
+- [Add Key-Value Pairs to JavaScript Objects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
+- [Modify an Object Nested Within an Object](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
+- [Access Property Names with Bracket Notation](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation)
+- [Use the delete Keyword to Remove Object Properties](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties)
+- [Check if an Object has a Property](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/check-if-an-object-has-a-property)
+- [Iterate Through the Keys of an Object with a for...in Statement](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/-iterate-through-the-keys-of-an-object-with-a-for---in-statement)
+- [Generate an Array of All Object Keys with Object.keys()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys)
+- [Modify an Array Stored in an Object](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
+- [Convert Celsius to Fahrenheit](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit)
