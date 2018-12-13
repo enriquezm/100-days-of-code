@@ -181,3 +181,4 @@ Pretty tired but tried to get some kind of work done today.
 - [Test for Truthiness](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-for-truthiness)
 - [PassedUse the Double Equals to Assert Equality](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-the-double-equals-to-assert-equality)
 - [Use the Triple Equals to Assert Strict Equality](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-the-triple-equals-to-assert-strict-equality)
+- [100 Days Viewer](https://codesandbox.io/s/3v8l0o7p7p)
