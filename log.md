@@ -168,3 +168,16 @@ Pretty tired but tried to get some kind of work done today.
 - [Generate an Array of All Object Keys with Object.keys()](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys)
 - [Modify an Array Stored in an Object](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
 - [Convert Celsius to Fahrenheit](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit)
+
+## Day 11: Dec 12, Wednesday
+
+**Today's Progress**:
+- Worked through Quality Assurance and Testing with Chai exercises in FCC.
+
+**Link(s) to work**
+- [Learn How JavaScript Assertions Work](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/learn-how-javascript-assertions-work)
+- [Test if a Variable or Function is Defined](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-if-a-variable-or-function-is-defined)
+- [Use Assert.isOK and Assert.isNotOK](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-assert-isok-and-assert-isnotok)
+- [Test for Truthiness](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/test-for-truthiness)
+- [PassedUse the Double Equals to Assert Equality](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-the-double-equals-to-assert-equality)
+- [Use the Triple Equals to Assert Strict Equality](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai/use-the-triple-equals-to-assert-strict-equality)

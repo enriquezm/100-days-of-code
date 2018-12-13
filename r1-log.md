@@ -34,3 +34,6 @@ The log of my #100DaysOfCode challenge. Started on [November 21, 2018].
 
 ## R1D10
 - Worked on some data structures again on fcc.
+
+## R1D11
+- Worked through Quality Assurance and Testing with Chai exercises in FCC.
